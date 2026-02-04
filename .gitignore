@@ -19,3 +19,8 @@ chroma
 container.db
 .next-build
 .cursor
+
+# Large files
+servers/fastapi/build/
+servers/fastapi/chroma/
+servers/fastapi/assets/icons_vectorstore.json
